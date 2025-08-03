@@ -58,26 +58,13 @@ main.py # Arquivo principal que executa tudo
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 
-2. Escreva a expressão no arquivo expressao.txt
+### 2. Escreva a expressão no arquivo expressao.txt
 
 5 * (2 + 10)
-3. Execute o programa principal
+
+### 3. Execute o programa principal
 
 python main.py
-
-Exemplo de Saída
-
-TOKEN      TIPO                 VALOR          
----------------------------------------------
-5          NÚMERO              5              
-*          OPERADOR            MULTIPLICAÇÃO  
-(          PARÊNTESE ABERTO    (              
-2          NÚMERO              2              
-+          OPERADOR            SOMA           
-10         NÚMERO              10             
-)          PARÊNTESE FECHADO   )              
-
-Resultado da expressão: 60
 
 
 
