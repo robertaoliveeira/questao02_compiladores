@@ -55,7 +55,7 @@ main.py # Arquivo principal que executa tudo
 
 ### 1. Clone este repositório
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/robertaoliveeira/questao02_compiladores 
 cd nome-do-repositorio
 
 ### 2. Escreva a expressão no arquivo expressao.txt
