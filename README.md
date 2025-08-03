@@ -44,9 +44,13 @@ A linguagem é composta por expressões aritméticas simples com:
 ## Estrutura do Projeto
 
 expressao.txt # Expressão de entrada
+
 lexer.py # Analisador léxico
+
 parser.py # Analisador sintático
+
 code_generator.py # Gerador de código
+
 main.py # Arquivo principal que executa tudo
 
 ---
