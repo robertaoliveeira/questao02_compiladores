@@ -1,5 +1,14 @@
 # Mini Compilador de Expressões Aritméticas
 
+## Equipe 03
+
+- **Délis Albuquerque**;
+- **Everton de Almeida**;
+- **Gabriel Gomes**;
+- **João Leonardo**;
+- **Raul Santos**;
+- **Roberta OLiveira**.
+
 Este projeto é um compilador simples em Python que realiza a **análise léxica**, **análise sintática** e **avaliação** de expressões aritméticas. Ele simula um pipeline de compilação dividido em quatro etapas:
 
 - **Lexer** – Tokeniza a expressão.
@@ -17,5 +26,5 @@ A linguagem é composta por expressões aritméticas simples com:
 - **Operadores**: `+`, `-`, `*`, `/`
 - **Parênteses**: para agrupar subexpressões
 
-### Exemplos válidos:
+
 
